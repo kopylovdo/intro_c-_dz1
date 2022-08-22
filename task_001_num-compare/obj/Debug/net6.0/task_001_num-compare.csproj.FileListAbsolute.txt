@@ -1,0 +1,15 @@
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/bin/Debug/net6.0/task_001_num-compare
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/bin/Debug/net6.0/task_001_num-compare.deps.json
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/bin/Debug/net6.0/task_001_num-compare.runtimeconfig.json
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/bin/Debug/net6.0/task_001_num-compare.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/bin/Debug/net6.0/task_001_num-compare.pdb
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/task_001_num-compare.csproj.AssemblyReference.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/task_001_num-compare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/task_001_num-compare.AssemblyInfoInputs.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/task_001_num-compare.AssemblyInfo.cs
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/task_001_num-compare.csproj.CoreCompileInputs.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/task_001_num-compare.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/refint/task_001_num-compare.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/task_001_num-compare.pdb
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/task_001_num-compare.genruntimeconfig.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_001_num-compare/obj/Debug/net6.0/ref/task_001_num-compare.dll
