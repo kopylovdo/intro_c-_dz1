@@ -1,0 +1,15 @@
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/bin/Debug/net6.0/task_004_all-num-chet
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/bin/Debug/net6.0/task_004_all-num-chet.deps.json
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/bin/Debug/net6.0/task_004_all-num-chet.runtimeconfig.json
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/bin/Debug/net6.0/task_004_all-num-chet.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/bin/Debug/net6.0/task_004_all-num-chet.pdb
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/task_004_all-num-chet.csproj.AssemblyReference.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/task_004_all-num-chet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/task_004_all-num-chet.AssemblyInfoInputs.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/task_004_all-num-chet.AssemblyInfo.cs
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/task_004_all-num-chet.csproj.CoreCompileInputs.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/task_004_all-num-chet.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/refint/task_004_all-num-chet.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/task_004_all-num-chet.pdb
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/task_004_all-num-chet.genruntimeconfig.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_004_all-num-chet/obj/Debug/net6.0/ref/task_004_all-num-chet.dll
