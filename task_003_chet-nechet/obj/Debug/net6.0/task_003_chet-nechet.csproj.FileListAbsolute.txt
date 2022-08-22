@@ -1,0 +1,15 @@
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/bin/Debug/net6.0/task_003_chet-nechet
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/bin/Debug/net6.0/task_003_chet-nechet.deps.json
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/bin/Debug/net6.0/task_003_chet-nechet.runtimeconfig.json
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/bin/Debug/net6.0/task_003_chet-nechet.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/bin/Debug/net6.0/task_003_chet-nechet.pdb
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/task_003_chet-nechet.csproj.AssemblyReference.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/task_003_chet-nechet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/task_003_chet-nechet.AssemblyInfoInputs.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/task_003_chet-nechet.AssemblyInfo.cs
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/task_003_chet-nechet.csproj.CoreCompileInputs.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/task_003_chet-nechet.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/refint/task_003_chet-nechet.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/task_003_chet-nechet.pdb
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/task_003_chet-nechet.genruntimeconfig.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_003_chet-nechet/obj/Debug/net6.0/ref/task_003_chet-nechet.dll
