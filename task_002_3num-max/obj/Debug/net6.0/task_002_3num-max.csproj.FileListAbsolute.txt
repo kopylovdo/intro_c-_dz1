@@ -1,0 +1,15 @@
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/task_002_3num-max.csproj.AssemblyReference.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/task_002_3num-max.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/task_002_3num-max.AssemblyInfoInputs.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/task_002_3num-max.AssemblyInfo.cs
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/task_002_3num-max.csproj.CoreCompileInputs.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/bin/Debug/net6.0/task_002_3num-max
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/bin/Debug/net6.0/task_002_3num-max.deps.json
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/bin/Debug/net6.0/task_002_3num-max.runtimeconfig.json
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/bin/Debug/net6.0/task_002_3num-max.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/bin/Debug/net6.0/task_002_3num-max.pdb
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/task_002_3num-max.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/refint/task_002_3num-max.dll
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/task_002_3num-max.pdb
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/task_002_3num-max.genruntimeconfig.cache
+/Users/dkopylov/Documents/projects/GeekBrains/C#/DZ1_Kopylov_DO/task_002_3num-max/obj/Debug/net6.0/ref/task_002_3num-max.dll
